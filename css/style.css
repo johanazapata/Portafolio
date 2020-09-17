@@ -598,17 +598,20 @@ nav ul li a {
   height: auto;
   width: 100%;
    background: #f7f7f7;
+   font-size: x-large
 }
 
 .contact-details {
   list-style: none;
   margin: 0;
   padding: 0;
+  
 }
 
 .contact-details li {
   padding-bottom: 10px;
-}
+  font-size: medium;
+  }
 
 #contact input, #contact textarea {
   width: 100%;
@@ -697,7 +700,7 @@ nav ul li a {
 }
 
 #footer p {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0.1em;
   font-weight: 500;
   margin-top: 0;
