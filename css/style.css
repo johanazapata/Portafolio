@@ -250,6 +250,13 @@ nav ul li a {
   height: 100vh;
   width: 100%;
 }
+.head-info .headercem-content .cmaster h1 {
+    font-size: 32px;
+  }
+
+ .head-info .headercem-content h1 {
+    font-size: 32px;
+  }
 
 #headercem .headercem-content {
   height: 100vh;
@@ -1176,4 +1183,9 @@ ul.social-buttons li {
     margin-bottom: 45px;
     width: 100%;
     justify-content: center;
+}
+
+#ilustracion {
+   width:100%;
+ 
 }
