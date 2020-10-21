@@ -6,7 +6,7 @@ var typed = $(".typed");
 
 $(function () {
     typed.typed({
-        strings: ["PROYECTO EN CONSTRUCCIÓN"],
+        strings: ["ASOCIACIÓN CHILENA DE EMPRENDEDORES"],
         typeSpeed: 100,
         loop: true,
     });
