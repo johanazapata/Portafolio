@@ -293,11 +293,11 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
       font-size: 32px;
     }
   
-   .head-info .headercrowdfoundig-content h1 {
+   .head-info .headercrowdfounding-content h1 {
       font-size: 32px;
     }
   
-  #headercrowdfoundig .headercrowdfoundig-content {
+  #headercrowdfounding .headercrowdfounding-content {
     height: 100vh;
     text-align: left;
     width: 100%;
@@ -306,7 +306,7 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
     flex-direction: column;
   }
   
-  .headercrowdfoundig-content h1 {
+  .headercrowdfounding-content h1 {
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -314,7 +314,7 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
     color: #fff;
   }
   
-  .headercrowdfoundig-content p {
+  .headercrowdfounding-content p {
     font-size: 13px;
     letter-spacing: 5px;
     margin-top: 0;
@@ -785,7 +785,7 @@ background: url("../images/supermercado1.jpg") repeat scroll center center / cov
   background: #f7f7f7;
   padding-top: 50px;
   padding-bottom: 50px;
-  margin-left: ;
+  margin-left: 15px;
 }
 
 #footer .socials-media {
@@ -1166,7 +1166,7 @@ ul.social-buttons li {
     display: inline-block;
     padding-right: 10px;
 }
-.project-information td {} .single-project-images {
+.project-information td  {
     margin-bottom: 30px;
 }
 .single-project-images img {
