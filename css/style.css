@@ -285,21 +285,20 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
   font-weight: 500;
 }
 
-.headercrowdfunding {
+#headercrowfunding {
   background: url("../images/portadacrowfunding.jpg") repeat scroll center center / cover;
     height: 100vh;
     width: 100%;
   }
-
-  .head-info .headercrowdfunding-content .cmaster h1 {
+  .head-info .headercrowfunding-content .cmaster h1 {
       font-size: 32px;
     }
   
-   .head-info .headercrowdfunding-content h1 {
+   .head-info .headercrowfunding-content h1 {
       font-size: 32px;
     }
   
-  #headercrowdfunding .headercrowdfunding-content {
+  #headercrowfunding .headercrowfunding-content {
     height: 100vh;
     text-align: left;
     width: 100%;
@@ -308,7 +307,7 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
     flex-direction: column;
   }
   
-  .headercrowdfunding-content h1 {
+  .headercrowfunding-content h1 {
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 10px;
@@ -316,7 +315,7 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
     color: #fff;
   }
   
-  .headercrowdfunding-content p {
+  .headercrowfunding-content p {
     font-size: 13px;
     letter-spacing: 5px;
     margin-top: 0;
