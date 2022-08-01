@@ -285,8 +285,50 @@ background: url("../images/black.jpg") repeat scroll center center / cover;
   font-weight: 500;
 }
 
+#headerbreik {
+  background: url("../images/breikportada.jpg") repeat scroll center center / cover;
+    height: 100vh;
+    width: 100%;
+  }
+  .head-info .headerbreik-content .cmaster h1 {
+      font-size: 32px;
+    }
+  
+   .head-info .headerbreik-content h1 {
+      font-size: 32px;
+    }
+  
+  #headerbreik  .headerbreik  {
+    height: 100vh;
+    text-align: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .headerbreik-content h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  
+  .headerbreik-content p {
+    font-size: 13px;
+    letter-spacing: 5px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+  }
+  
+
+
 #headercapitalinteligente {
-  background: url("../images/edificios.jpg") repeat scroll center center / cover;
+  background: url("../images/asesoria.jpg") repeat scroll center center / cover;
     height: 100vh;
     width: 100%;
   }
